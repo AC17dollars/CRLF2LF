@@ -154,11 +154,6 @@ int main(int argc, char *argv[])
 void appendLF(char *source, char *destination)
 {
     int i = 0;
-    printf("length of source: %d\n", strlen(source));
-    printf("length of destination: %d\n", strlen(destination));
-    printf("source: %s\n", source);
-    printf("destination: %s\n", destination);
-
     while (source[i] != '.')
     {
         if (i == strlen(source))
