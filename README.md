@@ -1,5 +1,5 @@
 # CRLF2LF
-A command line tool to convert CRLF text files to LF text files or coversely. <br><br>
+A command line tool to convert CRLF text files to LF text files or conversely. <br><br>
 Usage: ./CRLF2LF &emsp; \[OPTION]....\[FILE]...<br><br>
 Convert CRLF text files to LF text files.<br>Note: Specify file extension in filename<br><br>
 Options:<br>
